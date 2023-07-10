@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="API_KEY">85be971097bad49f75224d20e53eebb7</string>
+    <string name="BASE_URL">https://api.themoviedb.org/3/movie/550?api_key=</string>
+    <string name="API_Read_Access_Token">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4NWJlOTcxMDk3YmFkNDlmNzUy
+        MjRkMjBlNTNlZWJiNyIsInN1YiI6IjYzYmFhNzU0ZmMzMWQzMDA4YmNlM2I0ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJd
+        LCJ2ZXJzaW9uIjoxfQ.my7uz2w58URiQnxwyEPA8fotV1mTuxKMeKPT29XPFH8</string>
+</resources>
